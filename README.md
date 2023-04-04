@@ -1,13 +1,14 @@
-# Sample Hardhat Project
+# Auction Contract With Attack 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project demonstrates Test cases of Auction smart contract with DOS attack by Attack contract.
 
-Try running some of the following tasks:
+Run project following given steps:
 
 ```shell
-npx hardhat help
+step1: take clone of project
+srep2 run npm i
 npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
 ```
+
+You will get given output:
+
