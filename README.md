@@ -12,6 +12,6 @@ step3: run, npx hardhat test
 
 You will get given output:
 
-![Screenshot from 2023-04-04 14-16-04](https://user-images.githubusercontent.com/70260207/229738382-657477c0-067b-42be-bcf6-8fd1f5512b5c.png)
 
+![Screenshot from 2023-04-04 14-17-59](https://user-images.githubusercontent.com/70260207/229738501-44e91998-dac9-4e61-b6e2-009aefb3e385.png)
 
