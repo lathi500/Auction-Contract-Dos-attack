@@ -2,7 +2,7 @@
 
 This project demonstrates Test cases of Auction smart contract with DOS attack from Attack contract.
 
-Run project following given steps:
+Run project by following given steps:
 
 ```shell
 step1: take clone of project
