@@ -6,8 +6,8 @@ Run project by following given steps:
 
 ```shell
 step1: take clone of project
-srep2 run npm i
-npx hardhat test
+step2: run, npm i
+step3: run, npx hardhat test
 ```
 
 You will get given output:
