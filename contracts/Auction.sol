@@ -4,7 +4,7 @@ pragma solidity ^0.8.9;
 contract Auction {
   address public currentLeader;
   uint public highestBid;
-
+  
   function bid() external payable
   {
       require(msg.value > highestBid,"can not bid with amount less than previous leader");
