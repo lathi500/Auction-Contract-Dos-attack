@@ -1,4 +1,4 @@
-# Auction Contract With Attack 
+# Section 3: Auction Contract With Attack Test cases 
 
 This project demonstrates Test cases of Auction smart contract with DOS attack from Attack contract.
 
