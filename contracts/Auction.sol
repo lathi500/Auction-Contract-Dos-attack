@@ -10,7 +10,7 @@ contract Auction {
   uint public highestBid;
 
   /**
-   * @dev for Becomming new leader.
+   * @dev call for Becomming new leader.
    */
 
   function bid() external payable
